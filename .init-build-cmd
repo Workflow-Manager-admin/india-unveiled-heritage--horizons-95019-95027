@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/india-unveiled-heritage--horizons-95019-95027/main_container_for_india_unveiled"
+}
